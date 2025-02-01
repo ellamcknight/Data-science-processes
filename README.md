@@ -1,2 +1,17 @@
 # Data-science-processes
-Data science coding
+
+### *Working with data in python* 
+
+
+## Analytical Techniques 
+<pre>
+◾ Python
+◾ Sciki-Learn
+◾ Data preprocessing
+◾ Feature selection
+
+◾ Visualisations
+◾  
+◾ 
+</pre>
+
